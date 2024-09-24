@@ -42,6 +42,8 @@ Worked through maintaining both functionality and aesthetics as I made the websi
 9. Combining Multiple Technologies
 I've now experienced how HTML, CSS, and JavaScript work together to build a fully interactive, user-friendly web application.
 I managed to keep the design consistent while adding new features and ensuring functionality was preserved.
+
+
 Additional Concepts I Have Picked Up:
 DOM Manipulation: How the JavaScript interacts with the webpage structure, allowing me to change content dynamically.
 CSS Transitions and Animations: Implementing smooth transitions, such as the toggle for dark mode or hover effects.
