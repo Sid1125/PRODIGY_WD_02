@@ -6,7 +6,7 @@ From building this stopwatch web application with added dark mode and lap time f
 
 1. HTML Structure and Semantics
 I used HTML to structure the page with sections like the display, controls (buttons), and lap times.
-I organized elements using appropriate tags like <div>, <ul>, <li>, <button>, etc.
+I organized elements using appropriate tags like ```<div>, <ul>, <li>, <button>```, etc.
 I linked external resources like Google Fonts and Font Awesome for icons and custom fonts.
 2. CSS Styling and Layout
 I applied basic styles for elements such as buttons, text, and container layout.
